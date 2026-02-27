@@ -29,7 +29,13 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
-  "spriteMaskId":null,
+  "spriteId":{
+    "name":"spr_paddle",
+    "path":"sprites/spr_paddle/spr_paddle.yy",
+  },
+  "spriteMaskId":{
+    "name":"spr_paddle",
+    "path":"sprites/spr_paddle/spr_paddle.yy",
+  },
   "visible":true,
 }
